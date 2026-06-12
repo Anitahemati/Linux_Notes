@@ -11,12 +11,12 @@ Goals
 Daily Reports
 
 - Day 01
-- Ubuntu Installation & Basic Commands
+- Navigation Commands
 
 - Day 02 
-- Focused on file and directory management in Linux.
+- File Management Commands
 
 - Day 03
-- Practiced searching text inside files, locating files, and viewing file contents efficiently.
+- Search and Inspection Commands
 
 
