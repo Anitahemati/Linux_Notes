@@ -28,4 +28,7 @@ Daily Reports
 - Day 06
 - Pipes and Redirection
 
+- Day 07
+- Processes
+
 
