@@ -1,5 +1,5 @@
 # Linux Day 05
-
+ 
 ## Objective
 
 Learned about Linux users, groups, and sudo.
