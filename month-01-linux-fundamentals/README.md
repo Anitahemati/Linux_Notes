@@ -31,4 +31,7 @@ Daily Reports
 - Day 07
 - Processes
 
+- Day 08
+- Shell,Bash,PATH,Environment Variables 
+
 
