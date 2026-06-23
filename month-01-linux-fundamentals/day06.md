@@ -1,6 +1,6 @@
 # Linux Day 06
 
-## Objective
+## Objective 
 
 Learned Linux pipes and redirection.
 
